@@ -1,0 +1,8 @@
+#root{
+    --primary-box-shadow:rgb(28 28 28 / 8%) 0px 2px 8px;
+    --border-white:rgb(232,232,232);
+    --tag-red:#d92662;
+    --tag-blue:#256fef;
+    --tag-green:#267e3e;
+    --bg-gradient: linear-gradient(0deg, rgba(0, 0, 0, 0.9) 0%, rgba(0, 0, 0, 0.05) 50%, rgba(0, 0, 0, 0.05) 85%);
+}
