@@ -1,5 +1,5 @@
 import React from 'react'
-import './deliveryitem.css'
+import './deliveryItem.css'
 
 const DeliveryItem = ({item}) => {
   return (
